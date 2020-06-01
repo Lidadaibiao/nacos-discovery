@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos-discovery.iml" filepath="$PROJECT_DIR$/nacos-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-dubbo-service1/nacos-dubbo-service1.iml" filepath="$PROJECT_DIR$/nacos-dubbo-service1/nacos-dubbo-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-dubbo-service2/nacos-dubbo-service2.iml" filepath="$PROJECT_DIR$/nacos-dubbo-service2/nacos-dubbo-service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-restful-consumer/nacos-restful-consumer.iml" filepath="$PROJECT_DIR$/nacos-restful-consumer/nacos-restful-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-restful-provider/nacos-restful-provider.iml" filepath="$PROJECT_DIR$/nacos-restful-provider/nacos-restful-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-dubbo-service1/service1-api/service1-api.iml" filepath="$PROJECT_DIR$/nacos-dubbo-service1/service1-api/service1-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-dubbo-service1/service1-server/service1-server.iml" filepath="$PROJECT_DIR$/nacos-dubbo-service1/service1-server/service1-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-api/service2-api.iml" filepath="$PROJECT_DIR$/nacos-dubbo-service2/service2-api/service2-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/service2-server.iml" filepath="$PROJECT_DIR$/nacos-dubbo-service2/service2-server/service2-server.iml" />
+    </modules>
+  </component>
+</project>
